@@ -1,0 +1,25 @@
+{
+  "name": "gootchime",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcarneiro97/gootchime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielcarneiro97/gootchime/issues"
+  },
+  "homepage": "https://github.com/gabrielcarneiro97/gootchime#readme",
+  "devDependencies": {
+    "file-loader": "^6.1.1",
+    "webpack": "^5.1.3",
+    "webpack-cli": "^4.1.0"
+  }
+}
